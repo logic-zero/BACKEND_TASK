@@ -47,8 +47,6 @@ Installation Guide :)
 
     php artisan serve
 
-    App will run at 👉 [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
 After that register and then login,(theres a sample ui for the backend after login)
 
 
